@@ -1,0 +1,12 @@
+#ryu:
+#  rpc:
+#    registerAddress: ryuzzzz.icu
+#    serverPort: 11000
+spring:
+  redis:
+    host: ryuzzzz.icu
+    port: 6379
+    password: 475118582
+rpc:
+  config:
+    serializable: protostuff

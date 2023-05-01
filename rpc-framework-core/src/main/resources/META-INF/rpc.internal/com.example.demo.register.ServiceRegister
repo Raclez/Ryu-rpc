@@ -1,0 +1,3 @@
+zk=com.example.demo.register.ZookeeperServiceRegister
+nacos=com.example.demo.register.NacosServiceRegister
+redis=com.example.demo.register.RedisServiceRegister

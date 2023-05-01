@@ -1,0 +1,6 @@
+# 项目排除路径
+/rpc-framework-common/target/
+/rpc-framework-core/target/
+/Ryu-api/target/
+/Ryu-consumer/target/
+/Ryu-server/target/

@@ -1,0 +1,3 @@
+hession=com.example.demo.serialize.hessian.HessianSerializable
+kyro=com.example.demo.serialize.kryo.KryoSerializable
+protostuff=com.example.demo.serialize.protostuff.ProtostuffSerializable
